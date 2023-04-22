@@ -1,4 +1,4 @@
 <p align="left" style="width: 100%; display: flex; justify-content: space-between; align-items: flex-start;"> 
-  <img alt="Top Langs" height="140px" src="https://github-stats-3ivxnh4pr-orioriii.vercel.app/api/top-langs/?username=orioriii&layout=compact&show_icons=true" />
-  <img alt="github stats" height="140px" src="https://github-stats-3ivxnh4pr-orioriii.vercel.app/api?username=orioriii&show_icons=ture" />
+  <img alt="Top Langs" height="140px" src="https://github-stats-orioriii.vercel.app/api/top-langs/?username=orioriii&layout=compact&show_icons=true" />
+  <img alt="github stats" height="140px" src="https://github-stats-orioriii.vercel.app/api?username=orioriii&show_icons=ture" />
 </p>
